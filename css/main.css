@@ -1,3 +1,31 @@
 body {
   background-color: #fdf6e3;
 }
+
+header {
+  font-size: 1.5rem;
+}
+
+footer {
+  font-size: 1.5rem;
+}
+
+nav ul {
+  font-family: sans-serif;
+}
+
+.logo {
+  text-transform: uppercase;
+}
+
+.wrapper {
+  background-color: #eee8d5;
+}
+
+h2 {
+  color: #93a1a1;
+}
+
+div + p {
+  background-color: #b58900;
+}
